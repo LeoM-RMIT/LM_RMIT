@@ -1,2 +1,2 @@
 # LM_RMIT
-Leo Munoz RMIT Profile Page
+LM RMIT Profile Page
